@@ -3,7 +3,7 @@
 #include "../Lab_05.1/Lab_05.1.cpp" // Підключаємо основний файл з функцією k(x, y)
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-
+// Додатковий коментар для створення відмінностей між гілками
 namespace UnitTest051
 {
     TEST_CLASS(UnitTest051)
